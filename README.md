@@ -3,7 +3,7 @@
 ## Ejercicios Guiados
 ## Repositorio elaborado por Manuel Tavares
 
-| Nº | Actividad | - |
+| Nº | Actividad | Evidencia |
 |:--:|:-----------| :-: |
 | 1 | U2ACT1 — Ejercicio de Lista Enlazada Simple con VisuAlgo| [Archivo](./ListasEnlazadasConVisuAlgo.pdf) |
 | 2 | U2ACT2 — Ejercicio de Pila con VisuAlgo | [Archivo](./PilasConVisuAlgo.pdf) |
